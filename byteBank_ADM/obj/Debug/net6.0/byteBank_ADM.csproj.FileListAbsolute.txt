@@ -1,0 +1,30 @@
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.exe
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.deps.json
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.runtimeconfig.json
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfo.cs
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\refint\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.genruntimeconfig.cache
+C:\Users\kevin\Desktop\PROJETOS\C# - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\ref\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.exe
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.deps.json
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.runtimeconfig.json
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfo.cs
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\refint\byteBank_ADM.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.genruntimeconfig.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Usando herança e implementando interfaces\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\ref\byteBank_ADM.dll
